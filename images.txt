@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #b3log/solo:latest
 emqx/emqx
+nodered/node-red
