@@ -7,3 +7,4 @@
 #b3log/solo:latest
 emqx/emqx
 nodered/node-red
+softwareplant/oracle:12.1.0.2-ee-base
