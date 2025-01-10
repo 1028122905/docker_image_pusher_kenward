@@ -12,6 +12,7 @@
 #hwdsl2/ipsec-vpn-server:latest
 #kylemanna/openvpn:latest
 #mongo:4.4
-apache/apisix-dashboard:2.10.1-alpine
-apache/apisix:2.13.1-alpine
-bitnami/etcd:3.4.15
+#apache/apisix-dashboard:2.10.1-alpine
+#apache/apisix:2.13.1-alpine
+#bitnami/etcd:3.4.15
+xhofe/alist:latest
