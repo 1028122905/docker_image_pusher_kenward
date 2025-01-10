@@ -5,10 +5,13 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #b3log/solo:latest
-emqx/emqx
-emqx/emqx:5.0.1
-nodered/node-red
+#emqx/emqx
+#emqx/emqx:5.0.1
+#nodered/node-red
 #softwareplant/oracle:12.1.0.2-ee-base
-hwdsl2/ipsec-vpn-server:latest
-kylemanna/openvpn:latest
- mongo:4.4
+#hwdsl2/ipsec-vpn-server:latest
+#kylemanna/openvpn:latest
+#mongo:4.4
+apache/apisix-dashboard:2.10.1-alpine
+apache/apisix:2.13.1-alpine
+bitnami/etcd:3.4.15
