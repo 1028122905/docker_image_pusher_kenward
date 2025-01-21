@@ -16,4 +16,5 @@
 #apache/apisix:2.13.1-alpine
 #bitnami/etcd:3.4.15
 #xhofe/alist:latest
-librespeed/speedtest:latest
+#librespeed/speedtest:latest
+ghcr.io/librespeed/speedtest:latest
