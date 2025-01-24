@@ -19,4 +19,5 @@
 #librespeed/speedtest:latest
 #ghcr.io/librespeed/speedtest:latest
 #openjdk:8-jdk-alpine
-mysql:8.0-debian
+#mysql:8.0-debian
+mysql:8.0.29
