@@ -17,4 +17,5 @@
 #bitnami/etcd:3.4.15
 #xhofe/alist:latest
 #librespeed/speedtest:latest
-ghcr.io/librespeed/speedtest:latest
+#ghcr.io/librespeed/speedtest:latest
+openjdk:8-jdk-alpine
