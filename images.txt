@@ -23,4 +23,4 @@
 #mysql:8.0.29
 #maven:3.9.9-amazoncorretto-8-debian
 #node:14
-gcpaas/dataroom:latest'
+gcpaas/dataroom:latest
