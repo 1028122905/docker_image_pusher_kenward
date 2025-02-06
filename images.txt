@@ -21,5 +21,6 @@
 #openjdk:8-jdk-alpine
 #mysql:8.0-debian
 #mysql:8.0.29
-maven:3.9.9-amazoncorretto-8-debian
-node:14
+#maven:3.9.9-amazoncorretto-8-debian
+#node:14
+gcpaas/dataroom:latest'
