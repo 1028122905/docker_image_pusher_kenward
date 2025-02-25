@@ -28,3 +28,4 @@
 #prom/alertmanager
 #prom/prometheus
 bougou/alertmanager-webhook-adapter:v1.1.8
+bougou/alertmanager-webhook-adapter
