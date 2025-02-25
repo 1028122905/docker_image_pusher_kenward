@@ -25,5 +25,6 @@
 #node:14
 #gcpaas/dataroom:latest
 #portainer/portainer-ce:2.21.5
-prom/alertmanager
-prom/prometheus
+#prom/alertmanager
+#prom/prometheus
+bougou/alertmanager-webhook-adapter:v1.1.8
