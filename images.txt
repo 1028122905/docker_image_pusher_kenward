@@ -27,5 +27,8 @@
 #portainer/portainer-ce:2.21.5
 #prom/alertmanager
 #prom/prometheus
-bougou/alertmanager-webhook-adapter:v1.1.8
-bougou/alertmanager-webhook-adapter
+#bougou/alertmanager-webhook-adapter:v1.1.8
+#bougou/alertmanager-webhook-adapter
+node:22
+node:20
+node:18
