@@ -32,5 +32,6 @@
 #node:22
 #node:20
 #node:18
+jenkins/jenkins:2.498
 jenkins/jenkins:2.499
 jenkins/jenkins
