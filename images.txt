@@ -29,6 +29,8 @@
 #prom/prometheus
 #bougou/alertmanager-webhook-adapter:v1.1.8
 #bougou/alertmanager-webhook-adapter
-node:22
-node:20
-node:18
+#node:22
+#node:20
+#node:18
+jenkins/jenkins:2.499
+jenkins/jenkins
