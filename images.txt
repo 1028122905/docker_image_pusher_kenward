@@ -43,4 +43,5 @@
 #emqx/emqx:5.8.4
 #emqx/emqx:5.8.5
 #bitnami/minio:2024.2.17
-vaalacat/frp-panel:latest
+#vaalacat/frp-panel:latest
+ubuntu:22.04
