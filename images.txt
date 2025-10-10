@@ -45,3 +45,6 @@
 #bitnami/minio:2024.2.17
 #vaalacat/frp-panel:latest
 ubuntu:22.04
+openjdk:8-jdk-alpine
+openjdk:8-jdk
+openjdk:8
