@@ -49,4 +49,6 @@
 #openjdk:8-jdk
 #openjdk:8
 #maven:3.9.9-amazoncorretto-8-alpine
-jenkins/jenkins:lts-jdk17
+#jenkins/jenkins:lts-jdk17
+emqx/emqx:5.4.1
+emqx/emqx:5.7.1
