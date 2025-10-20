@@ -52,4 +52,6 @@
 #jenkins/jenkins:lts-jdk17
 #emqx/emqx:5.4.1
 #emqx/emqx:5.7.1
-centos:7
+#centos:7
+redis:7
+redis:5
