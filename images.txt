@@ -56,9 +56,10 @@
 #redis:7
 #redis:5
 #python:3.9-slim
-apache/apisix:3.14.1-ubuntu
-apache/apisix:3.14.0-ubuntu
-apache/apisix:3.14.1-debian
-apache/apisix:3.14.0-debian
-apache/apisix:3.14.1-redhat
-apache/apisix:3.14.0-redhat
+#apache/apisix:3.14.1-ubuntu
+#apache/apisix:3.14.0-ubuntu
+#apache/apisix:3.14.1-debian
+#apache/apisix:3.14.0-debian
+#apache/apisix:3.14.1-redhat
+#apache/apisix:3.14.0-redhat
+bitnamilegacy/etcd:3.5.11
