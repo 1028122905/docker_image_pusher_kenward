@@ -13,7 +13,6 @@
 #kylemanna/openvpn:latest
 #mongo:4.4
 #apache/apisix-dashboard:2.10.1-alpine
-apache/apisix-dashboard:3.0.1-alpine
 #apache/apisix:2.13.1-alpine
 #bitnami/etcd:3.4.15
 #xhofe/alist:latest
@@ -63,4 +62,5 @@ apache/apisix-dashboard:3.0.1-alpine
 #apache/apisix:3.14.0-debian
 #apache/apisix:3.14.1-redhat
 #apache/apisix:3.14.0-redhat
-bitnamilegacy/etcd:3.5.11
+#bitnamilegacy/etcd:3.5.11
+apache/apisix-dashboard:3.0.1-alpine
