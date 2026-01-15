@@ -64,7 +64,13 @@
 #apache/apisix:3.14.0-redhat
 #bitnamilegacy/etcd:3.5.11
 apache/apisix-dashboard:3.0.1-alpine
-mongo:5
-mongo:6
-mongo:7
-mongo:8
+#mongo:5
+#mongo:6
+#mongo:7
+#mongo:8
+openjdk:11-jdk-alpine
+openjdk:11-jdk
+openjdk:11
+openjdk:17-jdk-alpine
+openjdk:17-jdk
+openjdk:17
