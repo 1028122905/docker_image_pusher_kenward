@@ -80,4 +80,5 @@
 #node:22-alpine
 #httpd:2
 #registry:2
-joxit/docker-registry-ui:latest
+#joxit/docker-registry-ui:latest
+tonistiigi/binfmt
